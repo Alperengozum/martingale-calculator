@@ -20,3 +20,10 @@
 - Calculate(**start bet amount**,**max streak**, **increase streak**, **increase multiplier** ,**multiplier** )
 - Finally `python3 martingale_calculator.py`
 
+![Example_1](https://github.com/Alperengozum/martingale-calculator/blob/master/working_example_1.PNG)
+# Results in Console
+![Example_2](https://github.com/Alperengozum/martingale-calculator/blob/master/working_example_2.PNG)
+
+
+
+## All strategies will always bankrupt.It comes fast or slowly but it always happen.
